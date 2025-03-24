@@ -47,6 +47,7 @@ dependencies {
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.ui.tooling.preview.android)
     implementation(libs.androidx.compose.material3)
+    implementation(libs.androidx.navigation.compose)
     androidTestImplementation(composeBom)
 
     // Room Database

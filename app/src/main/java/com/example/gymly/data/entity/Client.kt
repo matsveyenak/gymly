@@ -10,5 +10,6 @@ data class Client(
     val phoneNumber: String?,
     val instagramNickname: String?,
     val telegramNickname: String?,
-    val whatsappNickname: String?
+    val whatsappNickname: String?,
+    val nextSession: String? = null
 )

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Gymly</string>
+    <string name="home_title">Home</string>
+    <string name="clients_title">My Clients</string>
+    <string name="library_title">Library</string>
+    <string name="add_new_client_title">Add New Client</string>
 </resources>
